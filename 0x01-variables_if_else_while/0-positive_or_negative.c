@@ -2,7 +2,8 @@
 #include <time.h>
 #include <stdio.h>
 /**
- * main: this is the main function
+ * main - assigns a random number to n anytime
+ * it executes and prints it and checks if negative or positive
  * Return: returns 0 (success) if positive
  */
 int main(void)
